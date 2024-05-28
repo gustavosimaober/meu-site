@@ -13,7 +13,7 @@ function newQuote() {
     document.getElementById('quoteDisplay').innerHTML = quotes[randomNumber];
      }
 function compre(){
-
+alert('vai toma no cu.');
 
 
     
