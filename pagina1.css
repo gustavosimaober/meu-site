@@ -46,7 +46,7 @@ nav a::after {
     content: " ";
     width: 0%;
     height: 4px;
-background-color: rgb(255, 204, 0); ;
+background-color: rgb(255, 0, 0); ;
     left: 0;
     bottom: 0;
     position: absolute;
